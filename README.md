@@ -1,4 +1,4 @@
-🏦 Loan Approval Prediction
+# 🏦 Loan Approval Prediction
 This project aims to predict whether a loan application will be Approved or Rejected using customer financial and asset data. It walks through the complete machine learning pipeline — from data preprocessing and visualization to model training and evaluation using a Random Forest Classifier.
 
 ---
